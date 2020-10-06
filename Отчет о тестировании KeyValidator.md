@@ -11,6 +11,7 @@
 В результате тестирования выявлены следующие дефекты:
 
 •	https://github.com/JKorneva/java1.1/issues/2
+
 •	https://github.com/JKorneva/java1.1/issues/1
 
 В процессе тестирования использовались следующие артефакты:
