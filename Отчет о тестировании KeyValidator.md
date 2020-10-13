@@ -7,8 +7,8 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-*	https://github.com/JKorneva/java1.1/issues/2 Невалидный ключ прошел верификацию на валидацию 
-*	https://github.com/JKorneva/java1.1/issues/1 Валидные ключи из списка на валидацию не прошли проверку 
+*	https://github.com/JKorneva/java1.1/issues/2 Невалидный ключ прошел верификацию на валидацию в KeyValidator
+*	https://github.com/JKorneva/java1.1/issues/1 Валидные ключи не прошли верификацию в KeyValidator
 
 
 ## Описание процесса тестирования
