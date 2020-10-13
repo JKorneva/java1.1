@@ -1,29 +1,30 @@
-Отчёт о тестировании KeyValidator
+# Отчёт о тестировании KeyValidator
 
-Дата проведения тестирования
+## Краткое описание
 
-05.10.2020 - 06.10.2020
+05.10.2020 - 06.10.2020 было проведено функциональное тестирование приложения KeyValidator
 
-Было проведено функциональное тестирование приложения KeyValidator
-
-На тестирование затрачено: 1 час
+На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
+•	https://github.com/JKorneva/java1.1/issues/2 Ключ из списка невалидные ключи прошел проверку на валидацию
+•	https://github.com/JKorneva/java1.1/issues/1 Валидные ключи из списка на валидацию не прошли проверку 
 
-•	https://github.com/JKorneva/java1.1/issues/2
 
-•	https://github.com/JKorneva/java1.1/issues/1
+## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
+* Использовала руководство использования на странице https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
-Использовала руководство использования на странице https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
- 
-Для проведения тестирования использовала тестовые данные из руководства использования https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+
+
+
+В качестве тестовых данных использовались данные:
+* Для проведения тестирования использовала тестовые данные из руководства использования https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+
 
 Тестирование производилось в следующем окружении:
-
-•	Windows10, X64
-
-•	java 11
+*  Windows10, X64
+* java 11
 
 
